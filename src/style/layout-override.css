@@ -7,10 +7,10 @@ html {
 }
 body {
     height: 100%;
-    border: 5px solid #ffdb3a;
+    border: 5px solid lightskyblue;
 }
 h1 {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     line-height: 0.5rem;
 }
 p, div {

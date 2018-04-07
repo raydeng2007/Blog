@@ -5,7 +5,7 @@ import Media from 'react-media'
 const Header = () => (
     <div
         style={{
-            background: '#f5f5f5',
+
             marginBottom: '3rem',
             borderBottom: '2px solid #e6e6e6',
         }}
@@ -17,7 +17,7 @@ const Header = () => (
                 padding: '1.45rem 1.0875rem',
             }}
         >
-            <h1 style={{margin: 0, textAlign: 'center',fontSize: '18px'}}>
+            <h1 style={{margin: 0, textAlign: 'center',fontSize: '35px'}}>
                 <Link to="/"
                       style={{
                           color: 'black',

@@ -9,13 +9,10 @@ import Media from 'react-media'
 
 const TemplateWrapper = ({ children }) => (
     <div>
-        <Helmet
-            title="FFFFF"
-            meta={[
-                { name: "description", content: "Sample" },
-                { name: "keywords", content: "sample, something" }
-            ]}
-        />
+        <Helmet>
+            <title>ABC</title>
+            <link rel="shortcut icon" href="./favicon.ico"/>
+        </Helmet>
         <Header />
         <div
             style={{
