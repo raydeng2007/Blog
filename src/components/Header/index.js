@@ -17,7 +17,7 @@ const Header = () => (
                 padding: '1.45rem 1.0875rem',
             }}
         >
-            <h1 style={{margin: 0, textAlign: 'center',fontSize: '35px'}}>
+            <h1 style={{margin: 0, textAlign: 'center',fontSize: '45px'}}>
                 <Link to="/"
                       style={{
                           color: 'black',

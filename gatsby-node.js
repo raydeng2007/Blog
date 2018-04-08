@@ -1,8 +1,4 @@
-/**
- * Implement Gatsby's Node APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/node-apis/
- */
+
 
 const path = require('path');
 exports.createPages = ({ boundActionCreators, graphql }) => {
@@ -23,7 +19,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             path
             title
           }
-        }
+        } 
       }
     }
   }`)
@@ -36,7 +32,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
                     createPage({
                         path: node.frontmatter.path,
                         component: blogPostTemplate,
-                        context: {} // additional data can be passed via context
+                        context: {}
                     });
                 });
         });

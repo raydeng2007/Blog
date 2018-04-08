@@ -10,7 +10,7 @@ import Media from 'react-media'
 const TemplateWrapper = ({ children }) => (
     <div>
         <Helmet>
-            <title>ABC</title>
+            <title>Ray's BBall Blog</title>
             <link rel="shortcut icon" href="./favicon.ico"/>
         </Helmet>
         <Header />
@@ -42,6 +42,7 @@ const TemplateWrapper = ({ children }) => (
                         </div>
                     ) : (
                         <div
+                            className="parent"
                             style={{
                                 margin: "0 auto",
                                 maxWidth: 980,
@@ -55,10 +56,13 @@ const TemplateWrapper = ({ children }) => (
                             <div style={{ flex: 4, paddingRight: "30px" }}>
                                 {children()}
                             </div>
-                            <div style={{ width: '210px'}}>
+                            <div  style={{ width: '210px'}}>
                                 <Sidebar
-                                    title="NBA Stats"
-                                    description="Analyzing stats from "
+                                    title="About the website"
+                                    description="Analyzing Current NBA teams and players using statistical visualization
+                                    tools like R and TABLEAU to represent trends. Hoping to anticipate performance patterns
+                                    and using statistical modeling methods such as simple linear regression to anticipate and
+                                    analyze current team standings and reasons behind it."
                                 />
                                 <Sidebar
                                     title="About author"
@@ -75,11 +79,15 @@ const TemplateWrapper = ({ children }) => (
 
 const Sidebar = (props) => (
     <div
+        className="side"
         style={{
+            position:'relative',
             border: '2px solid #e6e6e6',
-            maxWidth: 960,
+            maxWidth:960,
             padding: '0.5rem',
-            marginBottom: '25px'
+            marginBottom: '25px',
+            paddingRight:'0px'
+
         }}
     >
         <strong>{props.title}</strong> <br/>{props.description}
