@@ -1,11 +1,10 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import Media from 'react-media'
 
 const Header = () => (
     <div
+        className="background"
         style={{
-
             marginBottom: '3rem',
             borderBottom: '2px solid #e6e6e6',
         }}

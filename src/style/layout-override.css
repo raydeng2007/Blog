@@ -1,18 +1,26 @@
 * {
     background: #f5f5f5;
     color: black;
+    font-family: 'Jua', sans-serif;
+
 }
 html {
     height: 100%;
+
 }
 body {
     height: 100%;
     border: 5px solid lightskyblue;
+
+
 }
 h1 {
     font-family: 'Jua', sans-serif;
     font-size: 2rem;
     line-height: 0.5rem;
+}
+h2{
+    font-family: 'Jua', sans-serif;
 }
 p, div {
     font-size: 16px;
@@ -21,10 +29,23 @@ p, div {
 .parent{
     width:100%;
     height:100%;
-
+    /*background-image: url("https://image.shutterstock.com/z/stock-vector-seamless-minimalistic-basketball-pattern-in-black-and-white-tone-isolated-on-white-background-741432553.jpg");*/
 }
 
 .side{
     float:right;
     position:absolute;
+
 }
+
+div.preview {
+    border-bottom: 2px solid #e6e6e6;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+.side-title{
+    font-size: 25px;
+}
+

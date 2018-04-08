@@ -66,7 +66,7 @@ const TemplateWrapper = ({ children }) => (
                                 />
                                 <Sidebar
                                     title="About author"
-                                    description="I am a Data scientist"
+                                    description="I am a Data scientist and blah blah blah."
                                 />
                             </div>
                         </div>
@@ -90,7 +90,7 @@ const Sidebar = (props) => (
 
         }}
     >
-        <strong>{props.title}</strong> <br/>{props.description}
+        <strong className="side-title">{props.title}</strong> <br/>{props.description}
     </div>
 );
 
