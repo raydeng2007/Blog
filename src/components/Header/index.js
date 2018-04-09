@@ -23,7 +23,7 @@ const Header = () => (
                           textDecoration: 'none',
                       }}
                 >
-                    NBA BLOG
+                    FULL COURT ANALYSIS
                 </Link>
             </h1>
         </div>

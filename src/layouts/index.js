@@ -16,6 +16,7 @@ const TemplateWrapper = ({ children }) => (
         </Helmet>
         <Header />
         <div
+            className="background"
             style={{
                 margin: "0 auto",
                 maxWidth: 980,
@@ -39,7 +40,7 @@ const TemplateWrapper = ({ children }) => (
                                 padding: "25px"
                             }}
                         >
-                            <div style={{ flex: 1 }}>{children()}</div>
+                            <div  style={{ flex: 1 }}>{children()}</div>
                         </div>
                     ) : (
                         <div
