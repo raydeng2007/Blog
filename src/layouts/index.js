@@ -11,6 +11,7 @@ const TemplateWrapper = ({ children }) => (
     <div>
         <Helmet>
             <title>Ray's BBall Blog</title>
+            <link href="https://fonts.googleapis.com/css?family=Jua" rel="stylesheet"/>
             <link rel="shortcut icon" href="./favicon.ico"/>
         </Helmet>
         <Header />
