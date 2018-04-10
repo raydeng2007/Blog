@@ -7,12 +7,11 @@
 }
 html {
     height: 100%;
-
+    background-image: url("https://previews.123rf.com/images/incomible/incomible1407/incomible140700146/30109276-sports-seamless-pattern-with-basketball-icons-in-flat-style.jpg");
 }
 body {
     height: 100%;
     border: 6px solid #FF7F50;
-
 
 }
 h1 {
@@ -40,4 +39,8 @@ p {
 
 .blog-posts{
     margin-top: 20px;
+}
+
+.background{
+    background-image: url("https://previews.123rf.com/images/incomible/incomible1407/incomible140700146/30109276-sports-seamless-pattern-with-basketball-icons-in-flat-style.jpg");
 }
