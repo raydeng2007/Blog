@@ -40,7 +40,10 @@ basketball, I loved staring at players/teams stats and talking about it already,
 the internet and integrate data science into it? So that's how I came up with the idea of this blog, I built it using
 a really powerful static site generating framework called Gatsby.js that uses React to render components as well
 as Facebook's graphic query language to Graphql to pull data from markdown files to be generated into html files
-and optimize performance. A couple more tweeks here and there and voilà! You have full court analysis!
+and optimize performance. I deployed this site using netlify and one of the best things about netlify is that 
+it allows you to integrate your github account along with the site so every time you make a commit to github netlify 
+will automatically trigger a deployment achieving continuous integration. Another couple more tweeks here and there 
+and voilà! You have full court analysis!
 
 The purpose of this blog is really just a platform for me to share my personal stance and analytics about basketball
 and I do not tend to start any debate, which is why i purposely left out a comment section. I do hope through this 
