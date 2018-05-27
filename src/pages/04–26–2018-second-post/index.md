@@ -23,5 +23,13 @@ and team data available for you and can be exported to csv files which makes it 
 
 ![alt](https://i.imgur.com/OSi6GMz.png)
 
+Whenever I receive a raw dataset it's probably a good idea to clean the data of NaN values or other insufficient 
+data. First I wanted to convert the dataset into a python `DataFrame` object for ease of manipulation.Next I want to
+check the games that he didn't play, so I removed the games that was shown as `Inactive` or shown as `Did not dress`
+ and rename the `DataFrame` object into the name `played`.
+
+![alt](https://i.imgur.com/dpVB7io.png)
+
+
 
 
