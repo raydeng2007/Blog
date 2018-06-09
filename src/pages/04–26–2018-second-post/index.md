@@ -30,6 +30,32 @@ check the games that he didn't play, so I removed the games that was shown as `I
 
 ![alt](https://i.imgur.com/dpVB7io.png)
 
+Then visualizing the data can be really important and helpful for understanding the data and makes it easier to
+analyze it. Here I converted all the dates from the dataframe into `DateTime` objects, so that we can use the 
+matplotlib `plot_time` function. Also notice that I mapped all the points into a integers so that the plotting 
+function is able to recognize it.
+
+![Imgur](https://i.imgur.com/HXQ1S8G.png)
+
+Using similar methods I have plotted several different graphs to compare Melo's points scored in thunder loss 
+or win. 
+
+![Imgur](https://i.imgur.com/pBcJntw.png)
+![Imgur](https://i.imgur.com/PWk8FW6.png)
+![Imgur](https://i.imgur.com/5I4a20D.png)
+
+Once comparing the points Melo scored when he won and when he lost. Where the blue is where the thunder has won 
+and green is where the thunder has lost.
+
+![Imgur](https://i.imgur.com/YtaJAuj.png)
+
+It is not hard to see that the green line has more spots on the bottom or lower compared to the blue one. 
+
+
+
+
+
+
 
 
 
