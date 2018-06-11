@@ -39,7 +39,7 @@ my two passions, basketball and ~~shawarma~~  statistics! There are plenty of st
 basketball, I loved staring at players/teams stats and talking about it already, why not take the whole thing to 
 the internet and integrate data science into it? So that's how I came up with the idea of this blog, I built it using
 a really powerful static site generating framework called Gatsby.js that uses React to render components as well
-as Facebook's graphic query language to Graphql to pull data from markdown files to be generated into html files
+as Facebook's graphic query language Graphql to pull data from markdown files to be generated into html files
 and optimize performance. I deployed this site using netlify and one of the best things about netlify is that 
 it allows you to integrate your github account along with the site so every time you make a commit to github netlify 
 will automatically trigger a deployment achieving continuous integration. Another couple more tweeks here and there 

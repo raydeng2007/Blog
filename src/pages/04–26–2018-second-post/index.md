@@ -49,8 +49,26 @@ and green is where the thunder has lost.
 
 ![Imgur](https://i.imgur.com/YtaJAuj.png)
 
-It is not hard to see that the green line has more spots on the bottom or lower compared to the blue one. 
+It is not hard to see that the green line has more spots on the bottom or lower compared to the blue one. Does 
+that necessarily mean that Melo is the direct cause of thunder's loss? Definitely not. So, what **IS** the best
+and most accessible advanced stat an average fan can use for player evaluation? PER.
 
+For those who aren't very familiar with PER it's an abbreviation for player efficiency rating, it's a very 
+simple way to evaluate how efficient and how well a player is performing, it's a number that's 
+[calulated through a wide variety of stats](https://en.wikipedia.org/wiki/Player_efficiency_rating#Calculation)
+and sums down to a single number that estimates how well a player is playing. The inventor of this stat
+John Hollinger said that "The PER sums up all a player's positive accomplishments, subtracts the negative 
+accomplishments, and returns a per-minute rating of a player's performance." However there's a downside with 
+this stat, according to the inventor of this stat, Hollinger freely admits that two of the defensive statistics 
+it incorporates—blocks and steals (which was not tracked as an official stat until 1973)—can produce a distorted
+ picture of a player's value and that PER is not a reliable measure of a player's defensive acumen. 
+ 
+ That being said, Melo's 2017-2018 PER was a shockingly low 12.7 while his career PER was a 20.3 and the NBA has 
+ an average of [15](http://insider.espn.com/nba/hollinger/statistics). In comparison, Melo's stat really looks quite
+ dim in comparison with his fellow all stars, or even non-all-star players, especially considering that offense was really Melo's strong suite 
+ throughout his career and his defense has always been a downside of his game.
+ 
+ We can see a graph of his blocks and steals per game during his most recent season. 
 
 
 
