@@ -69,6 +69,24 @@ it incorporates—blocks and steals (which was not tracked as an official stat u
  throughout his career and his defense has always been a downside of his game.
  
  We can see a graph of his blocks and steals per game during his most recent season. 
+ ![Imgur](https://i.imgur.com/HJOAUwx.png)
+ 
+ ![Imgur](https://i.imgur.com/ABXzxLK.png)
+ 
+Too many 1s and 0s in sight to be considered a 'decent' defensive player.
+
+Even more if we look at his turnovers
+
+![Imgur](https://i.imgur.com/1OB9nMG.png)
+
+All of a sudden a lot less 0s wouldn't you say. With a very limited ability to score and play defence, along side 
+with a high turnover rate, it's clear that Melo is one of the many reasons that thunder prematurely ended their 
+season against a team that is lead by a rookie.
+
+Every super star inevitably gets old and falls off, unfortunately Melo's time has come earlier than we all wished. 
+With rumors of him being traded, it's hard to predict where Melo's future lies.
+
+The jupyter notebook used to generate the graphs along with the csv file can be found on my github. 
 
 
 
