@@ -1,5 +1,5 @@
 ---
-path: "/second-post"
+path: "/the-fall-of-the-melo-empire"
 date: "2018-04-26"
 title: "The fall of the Melo empire"
 ---
