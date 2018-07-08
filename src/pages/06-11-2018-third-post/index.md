@@ -15,3 +15,4 @@ to create a fully connected CNN that had an accuracy of 98.7% with less than 100
 excited and want to share my experience here. They also have great free online courses that allow you to follow 
 through examples of implementing your own deep learning solutions using their fast.ai library!
 
+So for majority of 

@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cb4dbf-8d9e-4f96-abd1-9a73fd1dbb9f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/06-11-2018-third-post/index.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/pages/04–09–2018-first-post/index.md" afterPath="$PROJECT_DIR$/src/pages/04–09–2018-first-post/index.md" />
-      <change beforePath="$PROJECT_DIR$/src/pages/04–26–2018-second-post/index.md" afterPath="$PROJECT_DIR$/src/pages/04–26–2018-second-post/index.md" />
+      <change beforePath="$PROJECT_DIR$/src/pages/06-11-2018-third-post/index.md" afterPath="$PROJECT_DIR$/src/pages/06-11-2018-third-post/index.md" />
+      <change beforePath="$PROJECT_DIR$/src/style/layout-override.css" afterPath="$PROJECT_DIR$/src/style/layout-override.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,15 +15,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/06-11-2018-third-post/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="75" lean-forward="false" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
+              <first_editor relative-caret-position="255">
+                <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout-override.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/style/layout-override.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,11 +115,11 @@
         <option value="$PROJECT_DIR$/src/templates/blog-post.js" />
         <option value="$PROJECT_DIR$/src/components/Header/index.js" />
         <option value="$PROJECT_DIR$/src/layouts/index.js" />
-        <option value="$PROJECT_DIR$/src/style/layout-override.css" />
         <option value="$PROJECT_DIR$/src/pages/04–06–2018-second-post/index.md" />
         <option value="$PROJECT_DIR$/src/pages/04–09–2018-first-post/index.md" />
         <option value="$PROJECT_DIR$/src/pages/04–26–2018-second-post/index.md" />
         <option value="$PROJECT_DIR$/src/pages/06-11-2018-third-post/index.md" />
+        <option value="$PROJECT_DIR$/src/style/layout-override.css" />
       </list>
     </option>
   </component>
@@ -349,12 +358,12 @@
       <workItem from="1524762683461" duration="8000000" />
       <workItem from="1527435542653" duration="7296000" />
       <workItem from="1529782233724" duration="340000" />
-      <workItem from="1531086006589" duration="1968000" />
+      <workItem from="1531086006589" duration="2224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59991000" />
+    <option name="totallyTimeSpent" value="60247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -475,11 +484,19 @@
     <entry file="file://$PROJECT_DIR$/src/pages/06-11-2018-third-post/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="75" lean-forward="false" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/layout-override.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
