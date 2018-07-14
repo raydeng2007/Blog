@@ -85,7 +85,7 @@ able to see what the process looks like visually because of in the  `learn`  obj
  3 lines of code! 
  
  
-```aidl
+```pythons
 sz = 224
 .....
 data = ImageClassifierData.from_paths(PATH, tfms=tfms_from_model(resnet34, sz))
