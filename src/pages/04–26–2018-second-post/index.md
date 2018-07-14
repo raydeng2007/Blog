@@ -16,7 +16,8 @@ Now when I hear the name Melo, I think of the OKC Melo who's struggling to get p
 against the Jazz. Looking at the past season's performance, it's clear that he is no longer the dangerous Melo 
 that drove fear into the opponents. For the first time in his career he was not invited to the team US tryouts,
 he wasn't selected as an all star, etc. But how bad is Melo this year? How big of a change did he experience and 
-is he the reason why the Thunder are struggling even though with such a flashy roster? <br/><br/>
+is he the reason why the Thunder are struggling even though with such a flashy roster? Let's try and find
+ out. <br/><br/>
 Now let's jump right in the data analytics, first I imported the 2017-2018 season player data for Melo from 
 [baskerball reference](https://www.basketball-reference.com/), a public site where there's an abundance of player
 and team data available for you and can be exported to csv files which makes it so much easier to collect and analyze.
