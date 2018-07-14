@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a8cb4dbf-8d9e-4f96-abd1-9a73fd1dbb9f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/pages/04–26–2018-second-post/index.md" afterPath="$PROJECT_DIR$/src/pages/04–26–2018-second-post/index.md" />
       <change beforePath="$PROJECT_DIR$/src/pages/06-11-2018-third-post/index.md" afterPath="$PROJECT_DIR$/src/pages/06-11-2018-third-post/index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,9 +17,9 @@
       <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/06-11-2018-third-post/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="528">
-                <caret line="125" column="81" lean-forward="false" selection-start-line="125" selection-start-column="81" selection-end-line="125" selection-end-column="81" />
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="552">
+                <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -348,16 +347,15 @@
       <workItem from="1524762683461" duration="8000000" />
       <workItem from="1527435542653" duration="7296000" />
       <workItem from="1529782233724" duration="340000" />
-      <workItem from="1531086006589" duration="13621000" />
+      <workItem from="1531086006589" duration="14024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71644000" />
+    <option name="totallyTimeSpent" value="72047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -481,9 +479,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/06-11-2018-third-post/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="528">
-            <caret line="125" column="81" lean-forward="false" selection-start-line="125" selection-start-column="81" selection-end-line="125" selection-end-column="81" />
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="552">
+            <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

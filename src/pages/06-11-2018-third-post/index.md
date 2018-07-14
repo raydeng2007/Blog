@@ -84,6 +84,7 @@ able to see what the process looks like visually because of in the  `learn`  obj
  Now we have the learning rate, the fast.ai library makes it very easy to train a neural network. It only requires 
  3 lines of code! 
  
+ 
 ```aidl
 sz = 224
 .....
@@ -91,6 +92,7 @@ data = ImageClassifierData.from_paths(PATH, tfms=tfms_from_model(resnet34, sz))
 learn = ConvLearner.pretrained(resnet34, data, precompute=True)
 learn.fit(0.01, 3)
 ```
+
 
 that was all the code that was necessary to train a CNN. 
 
