@@ -85,14 +85,15 @@ able to see what the process looks like visually because of in the  `learn`  obj
  3 lines of code! 
  
  
-```python
-sz = 224
-.....
-data = ImageClassifierData.from_paths(PATH, tfms=tfms_from_model(resnet34, sz))
-learn = ConvLearner.pretrained(resnet34, data, precompute=True)
-learn.fit(0.01, 3)
-```
+```aidl
+|-- train
+    |-- cats
+    |-- dogs
+|-- valid
+    |-- cats
+    |-- dogs
 
+```
 
 that was all the code that was necessary to train a CNN. 
 
