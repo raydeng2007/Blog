@@ -84,18 +84,6 @@ able to see what the process looks like visually because of in the  `learn`  obj
  Now we have the learning rate, the fast.ai library makes it very easy to train a neural network. It only requires 
  3 lines of code! 
  
-```aidl
-|-- train
-    |-- cats
-    |-- dogs
-|-- valid
-    |-- cats
-    |-- dogs
-
-```
-
-where there's a training set and a validation set and each set has a subfolder of the categories to be classified 
-in this case `cats`  and  `dogs`
  
 ```aidl
  arch=resnet34
