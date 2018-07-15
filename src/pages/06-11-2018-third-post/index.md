@@ -84,6 +84,16 @@ able to see what the process looks like visually because of in the  `learn`  obj
  Now we have the learning rate, the fast.ai library makes it very easy to train a neural network. It only requires 
  3 lines of code! 
  
+ ```aidl
+ |-- train
+     |-- cats
+     |-- dogs
+ |-- valid
+     |-- cats
+     |-- dogs
+ 
+ ```
+ 
 ```aidl
 arch=resnet34
 data = ImageClassifierData.from_paths(PATH, tfms=tfms_from_model(arch, sz))
