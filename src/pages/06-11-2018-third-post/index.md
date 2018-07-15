@@ -91,6 +91,7 @@ able to see what the process looks like visually because of in the  `learn`  obj
 |-- valid
     |-- cats
     |-- dogs
+    
  ```
  
 ```aidl
@@ -98,6 +99,7 @@ able to see what the process looks like visually because of in the  `learn`  obj
  data = ImageClassifierData.from_paths(PATH, tfms=tfms_from_model(arch, sz))
  learn = ConvLearner.pretrained(arch, data, precompute=True)
  learn.fit(0.01, 3)
+ 
 ```
 
 that was all the code that was necessary to train a CNN. 
