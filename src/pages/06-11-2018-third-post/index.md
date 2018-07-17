@@ -79,11 +79,11 @@ able to see what the process looks like visually because of in the  `learn`  obj
  we want to choose a learning rate where the lost isn't at the lowest but somewhere a little before that.A good 
  number to choose is around 10<sup>-2</sup>. 
  
- <h2>Training the model</h2>
+ <h2>TRAINING THE MODEL</h2>
  
  Now we have the learning rate, the fast.ai library makes it very easy to train a neural network. It only requires 
  3 lines of code! 
- 
+<br>
 
 ![alt](https://i.imgur.com/flq3PQX.png)
 
