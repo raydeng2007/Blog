@@ -4,7 +4,7 @@ analytics sklls as a data scientist as well as investigate and explore current t
 Here is a screenshot 
 of the blog.
 
-<img src="drawing.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="https://imgur.com/a/2Eq120b" alt="Drawing" style="width: 200px;"/>
  
 You can visit the site --> [Here](https://raybballblog.netlify.com/)
 
