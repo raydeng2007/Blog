@@ -15,16 +15,17 @@ body {
 
 }
 h1 {
-    font-family: 'Jua', sans-serif;
+    font-family:  'Rotboto', sans-serif;
     font-size: 2rem;
     line-height: 0.5rem;
 }
 h2{
-    font-family: 'Jua', sans-serif;
+    font-family: 'Rotboto', sans-serif;
 }
 p {
     font-size: 25px;
     line-height: 1.65em;
+    font-family: 'Rotboto', sans-serif;
 }
 
 .parent{
