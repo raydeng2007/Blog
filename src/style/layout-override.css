@@ -16,15 +16,15 @@ body {
 }
 h1 {
     font-family:  'Rotboto', sans-serif;
-    font-size: 2rem;
-    line-height: 0.5rem;
+    font-size: 1.5rem;
+    line-height: 0.4rem;
 }
 h2{
     font-family: 'Rotboto', sans-serif;
 }
 p {
-    font-size: 25px;
-    line-height: 1.65em;
+    font-size: 22px;
+    line-height: 1.0em;
     font-family: 'Rotboto', sans-serif;
 }
 
