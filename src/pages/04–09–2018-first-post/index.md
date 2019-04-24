@@ -5,7 +5,7 @@ title: "About this Blog"
 ---
 In this first blog I want to give you a brief introduction of who I am and what this blog is mainly
 about. I intended this blog to be a sports analytics blog at first, but then I thought it
-can also serve as a blog just about my life. 
+can also serve as a blog just about my life as well as my career. 
 
 As a kid growing up, I always enojoyed playing and watching basketball, maybe because I was tall,
  maybe because I was raised in the US, either way, ever since then, playing and watching basketball has always been 
@@ -13,10 +13,8 @@ As a kid growing up, I always enojoyed playing and watching basketball, maybe be
  of senior varsity in highschool. Playing basketball was always a safe haven for me, it kept me sanctured away from all the noise from 
  this forever busy world, there were times when I wished life was as simple and as pure as playing basketball.
  
-Fast forward to University, I developed a love for three S's: Statistics, Software and Shawarmas.Inevitably I was hit 
-with the notorious freshman's ~~15 and got too fat to play basketball at a highly competitive level anymore~~
-rough transition from highschool and the busy school schedule and got too busy to play basketball regularly. 
-But my love for basketball hasn't decrease at all, very much like my shawarma obsession. I still watch and follow 
+Fast forward to University. It was a rough transition from highschool and the busy school schedule made it hard for
+me to play basketball regularly. But my love for basketball hasn't decrease at all, I still watch and follow 
 basketball games religiously, discuss games and players highlights with my friends every now and then. 
 
 Two of the first three internships I got were software development roles, I loved the work but it always felt like
@@ -33,7 +31,7 @@ to NLP to neural networks. I was excited to start but overwhelmed by all the inf
 to start! 
 
 After a couple of months of researching and reading on materials,it suddenly hit me that maybe I could combine 
-my two passions, basketball and ~~shawarma~~  statistics! There are plenty of statistical analytics to be done in 
+my two passions, basketball and statistics! There are plenty of statistical analytics to be done in 
 basketball, I loved staring at players/teams stats and talking about it already, why not take the whole thing to 
 the internet and integrate data science into it? So that's how I came up with the idea of this blog, I built it using
 a really powerful static site generating framework called Gatsby.js that uses React to render components as well

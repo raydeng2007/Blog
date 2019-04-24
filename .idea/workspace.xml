@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cb4dbf-8d9e-4f96-abd1-9a73fd1dbb9f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/01-09-2019-text-analysis/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/04-22-2019-text-generation/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/04–09–2018-first-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/04–09–2018-first-post/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/layout-override.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/layout-override.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/blog-post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/blog-post.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/src/pages/04–09–2018-first-post/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+              <first_editor relative-caret-position="91">
+                <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -302,15 +296,16 @@
       <workItem from="1549816013316" duration="49000" />
       <workItem from="1555354050764" duration="1231000" />
       <workItem from="1556030196214" duration="3678000" />
-      <workItem from="1556116919721" duration="1313000" />
+      <workItem from="1556116919721" duration="1773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82475000" />
+    <option name="totallyTimeSpent" value="82935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21959943" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -465,8 +460,8 @@
     <entry file="file://$PROJECT_DIR$/src/pages/04–09–2018-first-post/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <first_editor relative-caret-position="91">
+            <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>
