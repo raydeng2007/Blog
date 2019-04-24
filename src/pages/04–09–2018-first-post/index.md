@@ -3,11 +3,9 @@ path: "/about-this-blog"
 date: "2018-04-09"
 title: "About this Blog"
 ---
-In this first blog I won't discuss that much about the analytics side of basketball but rather just a quick intro
-about this blog and about me, how I fell in love with basketball and how I plan to connect basketball and
-data science. Hope you enjoy 😃
-
-🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀
+In this first blog I want to give you a brief introduction of who I am and what this blog is mainly
+about. I intended this blog to be a sports analytics blog at first, but then I thought it
+can also serve as a blog just about my life. 
 
 As a kid growing up, I always enojoyed playing and watching basketball, maybe because I was tall,
  maybe because I was raised in the US, either way, ever since then, playing and watching basketball has always been 
@@ -43,7 +41,7 @@ as Facebook's graphic query language Graphql to pull data from markdown files to
 and optimize performance. I deployed this site using netlify and one of the best things about netlify is that 
 it allows you to integrate your github account along with the site so every time you make a commit to github netlify 
 will automatically trigger a deployment achieving continuous integration. Another couple more tweeks here and there 
-and voilà! You have full court analysis!
+and voilà! You have this blog!
 
 The purpose of this blog is really just a platform for me to share my personal stance and analytics about basketball
 and I do not tend to start any debate, which is why i purposely left out a comment section. I do hope through this 

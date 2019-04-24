@@ -10,7 +10,7 @@ import Media from 'react-media'
 const TemplateWrapper = ({ children }) => (
     <div>
         <Helmet>
-            <title>Full Court Analysis</title>
+            <title>Ray's Blog</title>
             <link href="https://fonts.googleapis.com/css?family=Jua" rel="stylesheet"/>
             <link rel="shortcut icon" href="./favicon.ico"/>
         </Helmet>
@@ -26,13 +26,7 @@ const TemplateWrapper = ({ children }) => (
                 height: "100%"
             }}
         >
-            <QuadBounce
-                duration={1150}
-                start={0}
-                end={160}
-            >
-                { value => <Ball y={value} /> }
-            </QuadBounce>,
+
             <Media query={{ maxWidth: 848 }}>
                 {matches =>
                     matches ? (
@@ -130,14 +124,6 @@ const SidebarTop = (props) => (
     </div>
 );
 
-const getPosition = (elapsedTime, h, k) => {
-    const a = (4 * k) / Math.pow(h * 2, 2);
-
-
-    const ypos = a * Math.pow((((elapsedTime + h) % (h * 2)) - h), 2);
-
-    return ypos;
-};
 
 
 const style = {
@@ -146,7 +132,7 @@ const style = {
     width: 50,
     height: 50,
     borderRadius: '50%',
-    backgroundColor: '#FF7F50',
+    backgroundColor: 'black',
 };
 
 
@@ -160,41 +146,7 @@ const Ball = ({ y }) => (
 );
 
 
-class QuadBounce extends React.Component {
-    state = {
-        beginning: Date.now(),
-    }
 
-    componentWillMount() {
-        this.setState({ interval: setInterval(this.updateValue, 20) });
-    }
-
-    componentWillUnmount() {
-        clearInterval(this.state.interval);
-    }
-
-    updateValue = () => {
-        const {
-            props: {
-                duration,
-                start,
-                end,
-            },
-            state: {
-                beginning,
-            },
-        } = this;
-
-        const time = Date.now() - beginning;
-        const value = start + getPosition(time, duration / 2, end - start);
-        this.setState({ value });
-    };
-
-    render() {
-        const renderedChildren = this.props.children(this.state.value);
-        return renderedChildren && React.Children.only(renderedChildren);
-    }
-}
 
 
 

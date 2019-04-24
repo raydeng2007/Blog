@@ -23,7 +23,7 @@ const Header = () => (
                           textDecoration: 'none',
                       }}
                 >
-                    FULL COURT ANALYSIS
+                    Ray's Blog
 
                 </Link>
 
