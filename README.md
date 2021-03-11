@@ -1,10 +1,5 @@
-# Blog for Statistical Analysis of the NBA
-This blog is a personal interest of mine to gather and analyze NBA players and teams data in hope to sharpen my data
-analytics sklls as a data scientist as well as investigate and explore current trends / standings of players and teams. 
-Here is a screenshot 
-of the blog.
-
-<img src="https://imgur.com/a/2Eq120b" alt="Drawing" style="width: 200px;"/>
+# My Blog
+A blog where I share data science experiments, software projects or just some ponderings I have from time to time.  
  
-You can visit the site --> [Here](https://raybballblog.netlify.com/)
+You can visit the site --> [Here](https://raysblog.netlify.com/)
 
